@@ -1,0 +1,12 @@
+{
+  "type": "crm-card",
+  "data": {
+    "title": "Quotation Create",
+    "uid": "start_quotation_create",
+    "location": "crm.record.sidebar",
+    "module": {
+      "file": "button-for-workflow.jsx"
+    },
+    "objectTypes": [{ "name": "deals" }]
+  }
+}

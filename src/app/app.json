@@ -1,0 +1,16 @@
+{
+  "name": "QuotationCreate",
+  "description": "This is a QuotationCreate of private app.",
+  "scopes": ["crm.objects.custom.read","crm.objects.custom.write","crm.schemas.deals.read","crm.objects.deals.read"],
+  "uid": "unique-QuotationCreate",
+  "public": false,
+  "extensions": {
+    "crm": {
+      "cards": [
+        {
+          "file": "extensions/button-for-workflow.json"
+        }
+      ]
+    }
+  }
+}

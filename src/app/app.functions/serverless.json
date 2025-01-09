@@ -1,0 +1,9 @@
+
+{
+  "appFunctions": {
+    "createQuotation": {
+      "file": "call-webhook-endpoint.js",
+      "secrets": []
+    }
+  }
+}
