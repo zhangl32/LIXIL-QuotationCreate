@@ -21,7 +21,7 @@ exports.main = async (context = {}) => {
 
 const callWebhookEndpoint = async (dealId) => {
   return axios.post(
-    `https://api-na1.hubapi.com/automation/v4/webhook-triggers/39703267/Kfk2IH8`,
+    `https://api-na1.hubapi.com/automation/v4/webhook-triggers/39703267/paCw6uj`,
     {
         dealId: dealId,
     },
