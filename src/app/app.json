@@ -1,7 +1,7 @@
 {
   "name": "WindowsMakerIntegration",
   "description": "This is a QuotationCreate of private app.",
-  "scopes": ["crm.objects.quotes.read","crm.objects.quotes.write","crm.objects.companies.read","crm.objects.deals.write","crm.objects.deals.read"],
+  "scopes": ["crm.objects.quotes.read","crm.objects.quotes.write","crm.objects.companies.read","crm.objects.custom.write","crm.objects.deals.read"],
   "uid": "unique-QuotationCreate",
   "public": false,
   "extensions": {
